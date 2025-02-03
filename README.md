@@ -4,7 +4,7 @@
 hakanserdarrusen
 
 ## Assumption
-We assume that you have the docker container that is given for the homeworks in the scope of the course.
+We assume that you have the docker container that is given in this repo.
 
 ## Setup Environment
 (Note: This may be a little bit time-consuming due to torch and nvidia_cuxx installations, be patient.)
